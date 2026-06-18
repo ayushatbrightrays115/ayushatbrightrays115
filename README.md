@@ -22,20 +22,22 @@
 ```javascript
 const ayush = {
     role: "Full-Stack Developer",
+    level: "Mid-level",
+    company: "BrightRays",
     code: ["JavaScript", "TypeScript", "Python"],
     stack: {
         frontend: ["React", "Next.js", "Tailwind CSS", "HTML5/CSS3"],
         backend: ["Node.js", "Express", "Python"],
     },
-    currentFocus: "Building clean, fast, full-stack apps",
-    funFact: "I turn coffee ☕ into code"
+    currentFocus: "Building full-stack web apps at BrightRays",
+    learning: ["React/Next.js", "Backend & APIs", "TypeScript", "Python"]
 };
 ```
 
-- 🔭 I'm currently working on **full-stack web projects**
-- 🌱 I'm always leveling up my **React + Node.js** skills
-- 💬 Ask me about **JavaScript, Python, and web development**
-- ⚡ Fun fact: **I love clean code and good coffee**
+- 🔭 I'm currently **building full-stack web apps at BrightRays**
+- 🌱 I'm deepening my skills in **React/Next.js, backend & APIs, TypeScript, and Python**
+- 🧰 Mid-level full-stack developer focused on **clean, scalable, production-ready code**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, and Python**
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
